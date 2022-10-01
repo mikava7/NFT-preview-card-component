@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Screenshot
 
-[Screenshot](https://github.com/mikava7/NFT-preview-card-component/blob/main/NTF%20screenShot.png)
+(https://github.com/mikava7/NFT-preview-card-component/blob/main/NTF%20screenShot.png)
 
 ### Links
 
