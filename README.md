@@ -20,12 +20,12 @@ Users should be able to:
 
 ### Screenshot
 
-[https://github.com/mikava7/NFT-preview-card-component/blob/main/NTF%20screenShot.png]
+[Screenshot](https://github.com/mikava7/NFT-preview-card-component/blob/main/NTF%20screenShot.png)
 
 ### Links
 
-- Solution URL: [https://github.com/mikava7/NFT-preview-card-component]
-- Live Site URL: [https://github.com/mikava7/NFT-preview-card-component]
+- Solution URL: [GitHub](https://github.com/mikava7/NFT-preview-card-component)
+- Live Site URL: [live](https://github.com/mikava7/NFT-preview-card-component)
 
 ## My process
 
