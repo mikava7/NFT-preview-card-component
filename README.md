@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Screenshot
 
-file:///home/irakliMikava/Pictures/Screenshots/NTF%20screenShot.png
+![calcHTMLlogo](file:///home/irakliMikava/Pictures/Screenshots/NTF%20screenShot.png)
 ### Links
 
 - Solution URL: [GitHub](https://github.com/mikava7/NFT-preview-card-component)
