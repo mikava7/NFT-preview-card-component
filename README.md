@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/mikava7/NFT-preview-card-component)
-- Live Site URL: [live](https://mikava7.github.com/mikava7/NFT-preview-card-component)
+- Live Site URL: [live](https://mikava7.github.io/mikava7/NFT-preview-card-component)
 
 ## My process
 
